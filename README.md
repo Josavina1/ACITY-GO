@@ -1,4 +1,4 @@
-# **ACITY GO: A Transport System Database for Academic City University College**
+# **ACITY GO: A Transport System Database for Academic City University **
 ### **Subtitle: “Convenience is our Priority”**
 
 
