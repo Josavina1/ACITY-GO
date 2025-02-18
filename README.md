@@ -6,7 +6,7 @@
 ---
 
 ## **About ACITY GO**
-Developed by **DataXfer**, an innovative database consulting firm, **ACITY GO** tackles the pressing transportation challenges at Academic City University College. By addressing issues like unreliable and delayed transit services, ACITY GO provides a fast, reliable, and efficient transportation system powered by a robust, well-designed database.
+Developed by **DataXfer**, an innovative database consulting firm, **ACITY GO** tackles the pressing transportation challenges at Academic City University. By addressing issues like unreliable and delayed transit services, ACITY GO provides a fast, reliable, and efficient transportation system powered by a robust, well-designed database.
 
 **Our Vision**: To streamline transport for students and staff, making convenience and reliability our utmost priority.
 
